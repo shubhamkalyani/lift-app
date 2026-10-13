@@ -1,4 +1,4 @@
-const CACHE = "lift-simple-v3";
+const CACHE = "lift-simple-v4";
 
 const ASSETS = [
   "./",
